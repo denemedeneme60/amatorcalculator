@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Calculator {
 
     public static void main(String[] args) {
-        
+        // Furkan >>> Main 
         Scanner in = new Scanner(System.in);
         System.out.print("Lütfen hangi işlemi yapacaksınız numarasını seçiniz: ");
         System.out.println("Toplama için 1 e basınız");
@@ -48,8 +48,8 @@ public class Calculator {
 
     }
 
-<<<<<<< HEAD
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 =======
@@ -65,15 +65,20 @@ public class Calculator {
 
 
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
     //Bölme işlemi methodu
     public static int bolme(int bolunen, int bolen)
     {
         return(bolunen / bolen);
     }
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 >>>>>>> main
 =======
 
    
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
 }
