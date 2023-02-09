@@ -50,11 +50,30 @@ public class Calculator {
 
 <<<<<<< HEAD
 
+<<<<<<< Updated upstream
 =======
+=======
+
+      /*  
+    Bu fonksiyon cikarma islemi yapıyor
+    */
+    public int cikarmaislemi(int eskilen, int cikan)
+    {
+        int fark= eskilen-cikan;
+        return fark;
+    }
+
+
+>>>>>>> Stashed changes
     //Bölme işlemi methodu
     public static int bolme(int bolunen, int bolen)
     {
         return(bolunen / bolen);
     }
+<<<<<<< Updated upstream
 >>>>>>> main
+=======
+
+   
+>>>>>>> Stashed changes
 }
