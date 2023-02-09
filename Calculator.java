@@ -72,6 +72,14 @@ public class Calculator {
     {
         return(bolunen / bolen);
     }
+     // Cankutay --> Toplama
+     public static double toplama(int integer1, int integer2){
+        
+        int result= integer1 + integer2;
+
+        return result;
+
+    }
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 >>>>>>> main
