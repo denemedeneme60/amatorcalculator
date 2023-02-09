@@ -8,5 +8,8 @@ public class Calculator {
 
     }
 
-    
+    public static int bolme(int bolunen, int bolen)
+    {
+        return(bolunen / bolen);
+    }
 }
