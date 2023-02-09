@@ -40,5 +40,13 @@ public class Calculator {
        
     }
 
+<<<<<<< HEAD
 
+=======
+    //Bölme işlemi methodu
+    public static int bolme(int bolunen, int bolen)
+    {
+        return(bolunen / bolen);
+    }
+>>>>>>> main
 }
