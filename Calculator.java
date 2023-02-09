@@ -17,8 +17,8 @@ public class Calculator {
         
         if(enteredNumber <= 4 && enteredNumber > 0 ){
             System.out.print("Lütfen sayıları giriniz: ");
-            int enteredNumber2 = in.nextInt() ;
             int enteredNumber3 = in.nextInt() ;
+            int enteredNumber2 = in.nextInt() ;
             switch(enteredNumber){
                 case 1 : 
                     // Toplama işlemi methodu
@@ -54,9 +54,6 @@ public class Calculator {
         return result;
 
     }
-
-
-
 
       /*  
     Bu fonksiyon cikarma islemi yapıyor
